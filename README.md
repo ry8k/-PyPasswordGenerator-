@@ -43,7 +43,7 @@ Create secure and customizable passwords effortlessly with this Python-based Pas
 
 1. **Run the Script** 🖥️
    ```bash
-   python password_generator.py
+   python main.py
    ```
    
 2. **Follow the Prompts** 🗯️
